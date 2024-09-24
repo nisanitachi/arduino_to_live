@@ -11,3 +11,4 @@ iii.With flask and localtunnel host a website to show these graph plotting live 
 # Future plan with this project💟
 Add heart disease prediction analysis in the website,which will come handy in case of emergency in remote zones of world.Already a arrhythmia detection repo is made.Also there are plans after the arrhythmia detection is merged in the website.
 
+https://github.com/user-attachments/assets/f815bb8b-54d4-40db-be15-03617a195fd1
